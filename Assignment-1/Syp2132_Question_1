@@ -1,5 +1,5 @@
-# Question 1: Decoding Controls and Structured Output
 
+# Question 1
 import torch
 import json
 import numpy as np
@@ -306,3 +306,6 @@ like 'guidance' or 'outlines' to enforce JSON grammar during token generation.
 This would guarantee syntactically valid output regardless of temperature settings,
 combining the benefits of creative sampling with structural reliability.
 """
+
+
+
